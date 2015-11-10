@@ -16,8 +16,8 @@ It is just an implementation of Pareto's Principle using Python. Luckily, there 
 
 This is the reason why I took a longer and more common data. However, the data used is still made by me and has no significance as of such. 
 
-> **One Important thing to note is, we need Python2 to make the module run properly. **
-> **I used WinPython2.7 Distribution to work.  **
+> **One Important thing to note is, we need Python2 to make the module run properly.**
+> **I used WinPython2.7 Distribution to work.**
 
  **Required Modules :**
  
